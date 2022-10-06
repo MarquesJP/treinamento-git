@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Sou o Patrick e tenho 32 anos.
+=======
+Sou patrick e tenho 29 anos.
+>>>>>>> patrick tem 29 anos
